@@ -1371,7 +1371,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b140fa;
+  background: #f0be39;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1863,14 +1863,12 @@ pre code {
   top: 1.25em;
   width: 4px;
 }
-.post-eof {
+.posts-expand .post-eof {
+  display: block;
+  width: 0%;
+  height: 0px;
   background: #ccc;
-  height: 1px;
-  margin: 80px auto 60px;
-  width: 8%;
-}
-.post-block:last-of-type .post-eof {
-  display: none;
+  text-align: center;
 }
 .content {
   padding-top: 40px;
