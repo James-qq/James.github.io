@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>James Qian&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-12T05:14:59.286Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>James Qian</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SSM框架整合</title>
+    <link href="http://yoursite.com/2020/06/12/SSM%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88/"/>
+    <id>http://yoursite.com/2020/06/12/SSM%E6%A1%86%E6%9E%B6%E6%95%B4%E5%90%88/</id>
+    <published>2020-06-12T05:05:15.901Z</published>
+    <updated>2020-06-12T05:14:59.286Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;SSM-框架整合&quot;&gt;&lt;a href=&quot;#SSM-框架整合&quot; class=&quot;headerlink&quot; title=&quot;SSM 框架整合&quot;&gt;&lt;/a&gt;SSM 框架整合&lt;/h3&gt;&lt;p&gt;Spring + Spring MVC + MyBatis&lt;/p&gt;
+&lt;p&gt;Spring MVC 负责实现 MVC 设计模式，MyBatis 负责数据持久层，Spring 负责管理 Spring MVC 和 MyBatis 相关对象的创建和依赖注入。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spring MVC</title>
+    <link href="http://yoursite.com/2020/06/12/Spring%20MVC/"/>
+    <id>http://yoursite.com/2020/06/12/Spring%20MVC/</id>
+    <published>2020-06-12T05:05:13.056Z</published>
+    <updated>2020-06-12T05:14:47.833Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Spring-MVC&quot;&gt;&lt;a href=&quot;#Spring-MVC&quot; class=&quot;headerlink&quot; title=&quot;Spring MVC&quot;&gt;&lt;/a&gt;Spring MVC&lt;/h3&gt;&lt;p&gt;Spring MVC 是目前主流的实现 MVC 设计模式的企业级开发框架，Spring 框架的一个子模块，无需整合，开发起来更加便捷。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mybatis</title>
+    <link href="http://yoursite.com/2020/06/12/mybatis/"/>
+    <id>http://yoursite.com/2020/06/12/mybatis/</id>
+    <published>2020-06-12T05:05:13.051Z</published>
+    <updated>2020-06-12T05:15:25.277Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Mybatis&quot;&gt;&lt;a href=&quot;#Mybatis&quot; class=&quot;headerlink&quot; title=&quot;Mybatis&quot;&gt;&lt;/a&gt;Mybatis&lt;/h3&gt;&lt;p&gt;ORMapping: Object Relationship Mapping 对象关系映射&lt;/p&gt;
+&lt;p&gt;对象指面向对象，关系指关系型数据库，Java 到 MySQL 的映射，开发者可以以面向对象的思想来管理数据库&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spring</title>
+    <link href="http://yoursite.com/2020/06/12/Spring/"/>
+    <id>http://yoursite.com/2020/06/12/Spring/</id>
+    <published>2020-06-12T05:04:57.673Z</published>
+    <updated>2020-06-12T05:15:43.037Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Spring-框架两大核心机制（Ioc、AOP）&quot;&gt;&lt;a href=&quot;#Spring-框架两大核心机制（Ioc、AOP）&quot; class=&quot;headerlink&quot; title=&quot;Spring 框架两大核心机制（Ioc、AOP）&quot;&gt;&lt;/a&gt;Spring 框架两大核心机制（Ioc、AOP）&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;IoC（控制反转）/ DI（依赖注入）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;AOP（面向切面编程）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Spring 是一个企业级开发框架，是软件设计层面的框架，优势在于可以将应用程序进行分层，开发者可以自主选择组件。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/06/12/hello-world/"/>
+    <id>http://yoursite.com/2020/06/12/hello-world/</id>
+    <published>2020-06-12T03:14:28.116Z</published>
+    <updated>2020-06-12T05:14:32.229Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
