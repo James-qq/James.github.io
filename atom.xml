@@ -52,6 +52,24 @@
   </entry>
   
   <entry>
+    <title>MyBatis</title>
+    <link href="http://yoursite.com/2020/06/12/MyBatis/"/>
+    <id>http://yoursite.com/2020/06/12/MyBatis/</id>
+    <published>2020-06-12T05:05:13.051Z</published>
+    <updated>2020-06-18T13:10:09.926Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;MyBatis&quot;&gt;&lt;a href=&quot;#MyBatis&quot; class=&quot;headerlink&quot; title=&quot;MyBatis&quot;&gt;&lt;/a&gt;MyBatis&lt;/h3&gt;&lt;p&gt;ORMapping: Object Relationship Mapping 对象关系映射&lt;/p&gt;
+&lt;p&gt;对象指面向对象，关系指关系型数据库，Java 到 MySQL 的映射，开发者可以以面向对象的思想来管理数据库&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Spring</title>
     <link href="http://yoursite.com/2020/06/12/Spring/"/>
     <id>http://yoursite.com/2020/06/12/Spring/</id>
